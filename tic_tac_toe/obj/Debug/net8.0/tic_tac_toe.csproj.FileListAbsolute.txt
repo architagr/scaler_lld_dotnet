@@ -1,0 +1,15 @@
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.AssemblyInfoInputs.cache
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.AssemblyInfo.cs
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.csproj.CoreCompileInputs.cache
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.sourcelink.json
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/bin/Debug/net8.0/tic_tac_toe
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/bin/Debug/net8.0/tic_tac_toe.deps.json
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/bin/Debug/net8.0/tic_tac_toe.runtimeconfig.json
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/bin/Debug/net8.0/tic_tac_toe.dll
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/bin/Debug/net8.0/tic_tac_toe.pdb
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.dll
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/refint/tic_tac_toe.dll
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.pdb
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/tic_tac_toe.genruntimeconfig.cache
+/Users/architagarwal/code/scaler_lld_dotnet/tic_tac_toe/obj/Debug/net8.0/ref/tic_tac_toe.dll
