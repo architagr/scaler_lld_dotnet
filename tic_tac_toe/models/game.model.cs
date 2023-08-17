@@ -56,8 +56,11 @@ namespace models
             {
                 Console.WriteLine("it is Draw");
             }
-            Console.WriteLine("Player {0} won", Winner.GetName());
-
+            if (Winner is not null)
+            {
+                Console.WriteLine("Player {0} won", Winner.GetName());
+            }
+            Console.WriteLine("Something went wrong");
         }
         private bool CheckWinner(IMove move)
         {
